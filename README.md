@@ -26,4 +26,4 @@ This repository contains documentation and analysis for my physics lab experimen
  
 
 
-* This README is a living document and will be updated regularly.
+  
