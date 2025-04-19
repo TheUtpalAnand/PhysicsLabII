@@ -13,8 +13,6 @@ This repository contains documentation and analysis for my physics lab experimen
 * **Balmer Series and Rydberg Constant:** Measurement of the wavelengths of the Balmer series of hydrogen and determination of the Rydberg constant.
 
 * **Thermistor:** Characterization of a thermistor's temperature dependence.
-
-## Experiments given below are in progress.
   
 * **Thermal Expansion:** Measurement of the linear thermal expansion coefficient of a solid.
 
